@@ -22,3 +22,16 @@ body {
 .purple {
     color:#A64AC9;
 }
+.smallPic {
+    widows: 200px;
+}
+.vSpacer {
+    height:12px;
+}
+#mainButton{
+    padding:12px;
+    border-radius:12px;
+    border:3px solid #A64AC9;
+    text-decoration: none;
+    color:#A64AC9;
+}
